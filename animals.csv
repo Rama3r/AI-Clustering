@@ -1,0 +1,31 @@
+  ,Animal ,Weight (kg) ,Top Speed (km/h) ,Lifespan (years) ,Social Behavior ,Diet ,Habitat 
+1,African Buffalo ,700,50,35,Social ,Herbivore ,Grasslands 
+2,Alligator ,400,15,50,Solitary  ,Carnivore ,Water 
+3,Angus cattle ,700,40,20,Social ,Herbivore ,Rangeland 
+4,Beaver ,30,8,12,Social ,Herbivore ,Water 
+5,Bison ,1000,55,25,Social ,Herbivore ,Grasslands 
+6,Camel ,500,65,40,Social ,Herbivore ,Deserts 
+7,Cheetah ,60,120,12,Solitary  ,Carnivore ,Grasslands 
+8,Chimpanzee ,50,40,46,Social ,Omnivore ,Forests 
+9,Crocodile ,1500,15,70,Solitary  ,Carnivore ,Water 
+10,Elephant ,5000,40,70,Social ,Herbivore ,Grasslands 
+11,Fox ,6,50,7,Semi-social ,Carnivore ,Grasslands 
+12,Ghazel ,65,100,15,Social ,Herbivore ,Grasslands 
+13,Giraffe ,1100,56,30,Social ,Herbivore ,Grasslands 
+14,Goat ,80,40,15,Social ,Herbivore ,Grasslands 
+15,Gorilla ,180,50,40,Social ,Herbivore ,Forests 
+16,Grizzly Bear ,600,56,25,Solitary  ,Omnivore ,Forests 
+17,Hippo ,2500,30,50,Social ,Herbivore ,Water 
+18,Kangaroo ,70,70,16,Social ,Herbivore ,Grasslands 
+19,Lion ,200,80,14,Social ,Carnivore ,Grasslands 
+20,Orangutan ,50,35,46,Solitary  ,Omnivore ,Forests 
+21,Panther ,60,60,8,Solitary  ,Carnivore ,Forests 
+22,Polar Bear ,600,40,30,Solitary  ,Carnivore ,Arctic  
+23,Raccoons ,25,15,3,Social ,Omnivore ,Forests 
+24,Sheep ,150,40,12,Social ,Herbivore ,Grasslands 
+25,Tiger  ,400,90,15,Solitary  ,Carnivore ,Forests 
+26,Water Buffalo ,1000,50,30,Social ,Herbivore ,Grasslands 
+27,White rhinoceros ,2300,40,50,Semi-social ,Herbivore ,Grasslands 
+28,Wild cat ,15,50,15,Solitary  ,Carnivore ,Deserts 
+29,Wolf ,60,60,13,Social ,Carnivore ,Forests 
+30,Zebra ,350,64,30,Social ,Herbivore ,Grasslands 
